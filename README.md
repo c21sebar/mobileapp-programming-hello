@@ -9,11 +9,11 @@ Och sist testat commit pch push.
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TEST TEST TEST MY FIRST GIT COMMIT"
+        android:text="@string/helloTest"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
 
-![](Hello_Word_till_TEST_TEST_TEST.png)
+![](Screenshot.png)
