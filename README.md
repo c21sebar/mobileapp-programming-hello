@@ -3,8 +3,9 @@
 
 Jag har installerat git, Andriod studio och skapat ett gitHub konto.
 Forkat hello från lenaSys enligt uppgfiten. Klonat till min laptop.
-Ändrat "Hello World!" i content_main.xml till "TEST TEST TEST MY FIRST GIT COMMIT".
-Och sist testat commit pch push.
+Ändrat i content_main.xml till en referens till @string/helloTest
+I strings så la jag texten "TEST TEST TEST" som visas i appen
+    <string name="helloTest">TEST TEST TEST</string>
 
     <TextView
         android:layout_width="wrap_content"
